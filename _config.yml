@@ -1,7 +1,7 @@
 name: Hamed Gebril
 favicon: null
-layout_spectrum: 0.7609846736304462
-typography_spectrum: 0.3442012832965702
+layout_spectrum: 1
+typography_spectrum: 0.37646
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#705544'
+    - '#856e5f'
+    - '#442918'
+    - '#a18a7b'
+    - '#3b1604'
   brandStrength: 0.0002265495713800192
-  lightness: 0.9463304604869336
-  saturation: 0.142082771519199
-  rhythmicContrast: 0.8651244924403727
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
