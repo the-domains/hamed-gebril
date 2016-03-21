@@ -35,7 +35,7 @@ color:
     - '#94cfcb'
     - '#feefac'
   brandStrength: 0.5
-  lightness: 0
+  lightness: 0.5
   saturation: 1
   rhythmicContrast: 1
 purpose: []
